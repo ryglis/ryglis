@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ryglis
 - 👀 I’m interested in space and games.
-- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
